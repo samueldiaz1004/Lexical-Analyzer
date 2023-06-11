@@ -1,0 +1,3 @@
+Entry	Lexeme
+1	writeArray
+2	i

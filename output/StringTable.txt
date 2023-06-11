@@ -1,0 +1,6 @@
+Entry	Lexeme
+1	"""Enter a float number: """
+2	"""Enter an integer number: """
+3	"""Reading Information..."""
+4	"""Sorting..."""
+5	"""Sorted Array:"""

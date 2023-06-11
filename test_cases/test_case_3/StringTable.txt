@@ -1,0 +1,2 @@
+Entry	Lexeme
+1	"""Reading Information..."""

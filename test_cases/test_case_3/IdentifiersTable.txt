@@ -1,0 +1,4 @@
+Entry	Lexeme
+1	main
+2	s
+3	readArray

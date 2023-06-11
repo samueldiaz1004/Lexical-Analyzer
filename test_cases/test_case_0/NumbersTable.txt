@@ -1,0 +1,2 @@
+Entry	Lexeme	Type
+1	10	int

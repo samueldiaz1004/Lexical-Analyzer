@@ -1,0 +1,12 @@
+void main(void){
+    s = "Reading Information...";
+    write(s);
+    readArray();
+    s = "Sorting...;
+    write(s);
+    sort(f2,0,10);
+    s = "Sorted Array:";
+    write(s);
+    writeArray();
+    return;
+}/* END of main() */

@@ -1,0 +1,9 @@
+void writeArray(void){
+    int i;
+    i = 0;
+    while (i ! 10){
+        write f2[i];
+        i = i + 1;
+    }
+    return;
+}/* END of writeArray() */

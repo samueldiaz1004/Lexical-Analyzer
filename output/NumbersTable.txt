@@ -1,0 +1,14 @@
+Entry	Lexeme	Type
+1	10	int
+2	100	int
+3	1.5	float
+4	1.0	float
+5	3	int
+6	0.2	float
+7	20	int
+8	1	int
+9	0	int
+10	5.5	float
+11	4	int
+12	2	int
+13	50	int

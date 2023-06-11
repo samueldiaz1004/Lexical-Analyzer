@@ -1,0 +1,5 @@
+Entry	Lexeme
+1	x
+2	s
+3	f1
+4	f2

@@ -1,0 +1,17 @@
+Entry	Lexeme
+1	x
+2	s
+3	f1
+4	f2
+5	miniloc
+6	a
+7	low
+8	high
+9	i
+10	y
+11	k
+12	sort
+13	t
+14	readarray
+15	writearray
+16	main

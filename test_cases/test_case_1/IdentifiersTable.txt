@@ -1,0 +1,9 @@
+Entry	Lexeme
+1	miniloc
+2	a
+3	low
+4	high
+5	i
+6	y
+7	k
+8	x
